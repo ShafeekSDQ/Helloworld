@@ -1,4 +1,4 @@
-# My Awesome Repository
+# My Repository
 
 Welcome to my awesome repository! This is a place where I experiment with code and share my projects.
 
